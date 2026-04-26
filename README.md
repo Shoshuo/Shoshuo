@@ -10,7 +10,7 @@ infrastructure.
 
 By night I build self-hosted tools for my homelab, polished enough to ship
 publicly. Currently shipping
-**[Prismarr](https://github.com/Shoshuo/Prismarr)** — a unified media stack
+**[Prismarr](https://github.com/Shoshuo/Prismarr)** - a unified media stack
 dashboard (Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent, TMDb) in a
 single Symfony 8 / FrankenPHP container.
 
