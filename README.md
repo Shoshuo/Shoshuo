@@ -4,7 +4,7 @@
 
 ### Hi, I'm Joshua
 
-Developer based in **Limoges, France**, working as **Analyste d'exploitation**
+Developer based in **France**, working as **Analyste d'exploitation**
 at **La Poste Groupe** on CI/CD, scheduling, supervision and critical-system
 infrastructure.
 
