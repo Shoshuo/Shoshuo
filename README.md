@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
 ### Hi, I'm Joshua
 
@@ -16,7 +16,7 @@ publicly.
 [shoshuo3@gmail.com](mailto:shoshuo3@gmail.com)
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" valign="middle">
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shoshuo&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
