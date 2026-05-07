@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Shoshuo&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" align="right">
+
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -18,11 +20,15 @@ publicly.
 </td>
 <td width="42%" valign="top">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shoshuo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shoshuo&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shoshuo&theme=merko&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies">
+</p>
 
 ### 🛠 Currently shipping
 
