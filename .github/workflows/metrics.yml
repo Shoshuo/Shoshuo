@@ -16,21 +16,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      # ── Main overview card (right column of the README). ──
+      # ── Main overview card (right column of the README). Slimmed down
+      #    intentionally: just the header (followers/stars/repos) so the
+      #    pinned repos and activity feed below the README aren't pushed
+      #    off-screen. The detailed analytics (lines, traffic, followup)
+      #    are skipped — anyone curious can click through to a repo. ──
       - name: Overview
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-overview.svg
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          base: header
           config_timezone: Europe/Paris
-          config_padding: 0, 8 + 6%
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_traffic: yes
+          config_padding: 0, 8 + 0%
 
       # ── Top languages card (centered footer of the README). ──
       - name: Languages
