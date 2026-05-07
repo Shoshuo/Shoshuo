@@ -2,7 +2,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm Joshua
+<h3 style="margin-top:0">Hi, I'm Joshua</h3>
 
 Developer based in **France**, working as **Analyste d'exploitation**
 at **La Poste Groupe** on CI/CD, scheduling, supervision and critical-system
