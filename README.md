@@ -18,7 +18,7 @@ publicly.
 </td>
 <td width="42%" valign="top">
 
-<img src="./metrics-overview.svg" alt="Metrics overview">
+<img src="https://github-readme-stats.hackclub.dev/api?username=Shoshuo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
 
 </td>
 </tr>
