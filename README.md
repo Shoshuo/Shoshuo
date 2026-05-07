@@ -18,15 +18,15 @@ publicly.
 </td>
 <td width="42%" valign="top">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shoshuo&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shoshuo&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&card_width=420" alt="GitHub stats">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Shoshuo&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views">
+</p>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shoshuo&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views">
-</p>
 
 ### 🛠 Currently shipping
 
