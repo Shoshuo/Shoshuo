@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=Shoshuo&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" align="right">
-
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -27,7 +25,7 @@ publicly.
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shoshuo&theme=merko&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies">
+  <img src="https://komarev.com/ghpvc/?username=Shoshuo&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views">
 </p>
 
 ### 🛠 Currently shipping
