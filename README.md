@@ -11,8 +11,6 @@ infrastructure.
 By night I build self-hosted tools for my homelab, polished enough to ship
 publicly.
 
-[Portfolio](https://lanua.fr/portfolio) ·
-[LinkedIn](https://www.linkedin.com/in/joshua-bethoule-voisin/) ·
 [shoshuo3@gmail.com](mailto:shoshuo3@gmail.com)
 
 </td>
