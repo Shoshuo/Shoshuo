@@ -5,7 +5,7 @@
 <h3 style="margin-top:0">Hi, I'm Joshua</h3>
 
 Developer based in **France**, working as **Analyste d'exploitation**
-at **La Poste Groupe** on CI/CD, scheduling, supervision and critical-system
+on CI/CD, scheduling, supervision and critical-system
 infrastructure.
 
 By night I build self-hosted tools for my homelab, polished enough to ship
