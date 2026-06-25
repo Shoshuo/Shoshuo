@@ -1,33 +1,33 @@
-name: Metrics
+# name: Metrics
 
-on:
-  # Daily refresh so the badge stays current without me lifting a finger.
-  schedule:
-    - cron: "0 6 * * *"
-  # Manual run from the Actions tab.
-  workflow_dispatch:
-  # Regenerate immediately after a README tweak.
-  push:
-    branches: [main]
+# on:
+#   # Daily refresh so the badge stays current without me lifting a finger.
+#   schedule:
+#     - cron: "0 6 * * *"
+#   # Manual run from the Actions tab.
+#   workflow_dispatch:
+#   # Regenerate immediately after a README tweak.
+#   push:
+#     branches: [main]
 
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      # ── Main overview card (right column of the README). Slimmed down
-      #    intentionally: just the header (followers/stars/repos) so the
-      #    pinned repos and activity feed below the README aren't pushed
-      #    off-screen. The detailed analytics (lines, traffic, followup)
-      #    are skipped — anyone curious can click through to a repo. ──
-      - name: Overview
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics-overview.svg
-          template: classic
-          base: header
-          config_timezone: Europe/Paris
-          config_padding: 0, 8 + 0%
+# jobs:
+#   metrics:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       # ── Main overview card (right column of the README). Slimmed down
+#       #    intentionally: just the header (followers/stars/repos) so the
+#       #    pinned repos and activity feed below the README aren't pushed
+#       #    off-screen. The detailed analytics (lines, traffic, followup)
+#       #    are skipped — anyone curious can click through to a repo. ──
+#       - name: Overview
+#         uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           filename: metrics-overview.svg
+#           template: classic
+#           base: header
+#           config_timezone: Europe/Paris
+#           config_padding: 0, 8 + 0%
 
